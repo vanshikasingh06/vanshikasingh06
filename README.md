@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Vanshika Singh currently a computer science engineering student.
+- <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+ -I’m Vanshika Singh currently a computer science engineering student.
 - 👀 I’m interested in learning new technology.
 - 🌱 I’m currently learning Python and web development.
 - 💞️ I’m looking to collaborate on projects that are on web development.
