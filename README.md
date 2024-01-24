@@ -1,11 +1,17 @@
-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+Welcome to my GitHub profile!
  -I’m Vanshika Singh currently a computer science engineering student.
 - 👀 I’m interested in learning new technology.
 - 🌱 I’m currently learning Python and web development.
 - 💞️ I’m looking to collaborate on projects that are on web development.
-- 📫 one can reach me through my linkedin profile or email.
+- ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
+- 📫 One can  reach me through : &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/
+vanshika-singh-253093255)
+
+
 
 <!---
 vanshikasingh06/vanshikasingh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
