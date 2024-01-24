@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Vanshika Singh currently an engineering student.
-- 👀 I’m interested in learning new technology and love to do coding.
+- 👋 Hi, I’m Vanshika Singh currently a computer science engineering student.
+- 👀 I’m interested in learning new technology.
 - 🌱 I’m currently learning Python and web development.
-- 💞️ I’m looking to collaborate on projects that are on web development
+- 💞️ I’m looking to collaborate on projects that are on web development.
 - 📫 one can reach me through my linkedin profile or email.
 
 <!---
