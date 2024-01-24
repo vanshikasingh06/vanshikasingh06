@@ -8,8 +8,6 @@ Welcome to my GitHub profile!
 - 🌱 I’m currently learning Python and web development.
 - 💞️ I’m looking to collaborate on projects that are on web development.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 One can  reach me through : &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/
-vanshika-singh-253093255)
 
 
 
