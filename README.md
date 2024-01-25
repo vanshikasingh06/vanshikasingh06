@@ -2,16 +2,16 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-Welcome to my GitHub profile!
- -I’m Vanshika Singh currently a computer science engineering student.
-- 👀 I’m interested in learning new technology.
-- 🌱 I’m currently learning Python and web development.
-- 💞️ I’m looking to collaborate on projects that are on web development.
-- ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
+Welcome to my GitHub profile!<br>
+ -I’m Vanshika Singh currently a computer science engineering student.<br>
+- 👀 I’m interested in learning new technology.<br>
+- 🌱 I’m currently learning Python and web development.<br>
+- 💞️ I’m looking to collaborate on projects that are on web development.<br>
+- ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vanshika singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanshika singh" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vanshika-singh-253093255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanshika singh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vanshika_004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vanshika_004" height="30" width="40" /></a>
 </p>
 
