@@ -6,7 +6,7 @@ Welcome to my GitHub profile!<br>
  -I’m Vanshika Singh currently a computer science engineering student.<br>
 - 👀 I’m interested in learning new technology.<br>
 - 🌱 I’m currently learning Python and web development.<br>
-- 💞️ I’m looking to collaborate on projects that are on web development.Also i am exploring cyber security technology,my intrested lies in cloud computing technology as well <br>
+- 💞️ I’m looking to collaborate on projects that are on web development.Also i am exploring cyber security technology,my intrest lies in cloud computing technology as well <br>
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.<br>
 
 <h3 align="left">Connect with me:</h3>
